@@ -22,3 +22,6 @@ In the repository settings, set **Pages > Build and deployment > Source** to
 **Settings → Pages**.
 
 The project site URL is <https://sonukumar970.github.io/Messmate/>.
+
+Vercel uses the Vite preset, installs development dependencies, and serves the
+production build from `dist` as configured in `vercel.json`.
